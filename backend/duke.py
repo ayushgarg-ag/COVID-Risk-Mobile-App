@@ -1,1 +1,0 @@
-#gets covid case data for Duke University based on https://coronavirus.duke.edu/covid-testing/
